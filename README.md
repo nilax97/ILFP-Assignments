@@ -1,4 +1,4 @@
-# ILFP
+# ILFP-Assignments
 Assignments for course COL765 - Introduction to Logical and Functional Programming at IIT Delhi
 
 ## Assignment 1
